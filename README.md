@@ -4,4 +4,7 @@ Code used on for my thesis - Wildfire Detection using Self-Supervised Learning. 
 
 The code is divided into two phases: Self-supervised phase and supervised phase. For the first phase, three diferent pretext task were implemented in order to pretrain part of the network. For the second phase, a classifier was achieved using the pretrained networks obtain during the previous phase. 
 
-The dataset used for this work will be made available.
+The images used were obtained from:
+- Corsican Dataset: http://cfdb.univ-corse.fr/
+- Portuguese Firefighters website: https://www.bombeiros.pt/galeria/categories.php?cat_id=29
+- Other sources
